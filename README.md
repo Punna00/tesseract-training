@@ -33,3 +33,9 @@ Two paramters that can be tuned to increase the performance of the model are:
 
 The paramters are available in the `training.sh file`
 
+### Useful Link
+- https://tesseract-ocr.github.io/tessdoc/Compiling
+- https://medium.com/quantrium-tech/installing-tesseract-4-on-ubuntu-18-04-b6fcd0cbd78f
+- https://tesseract-ocr.github.io/tessdoc/Data-Files-in-tessdata_fast
+- https://github.com/dhivehi/tesseractfonts
+- https://github.com/tesseract-ocr/langdata_lstm
