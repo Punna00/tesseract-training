@@ -8,7 +8,7 @@ sudo apt-get install libleptonica-dev -y
 
 
 # Clone tesseract repo
-git clone https://github.com/tesseract-ocr/tesseract.git
+git clone https://github.com/tesseract-ocr/tesseract.git --branch 4.0 --single-branch
 
 # Install tesseract
 cd tesseract/
